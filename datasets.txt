@@ -1,0 +1,8 @@
+Due to the file size limitation of GitHub, I cannot upload the datasets to this repository.
+However, if you are interested to view the data, it can be obtained from https://nijianmo.github.io/amazon/index.html
+Download reviews data and metadata under Video Games category from there.
+
+Credit:
+Justifying recommendations using distantly-labeled reviews and fined-grained aspects
+Jianmo Ni, Jiacheng Li, Julian McAuley
+Empirical Methods in Natural Language Processing (EMNLP), 2019
